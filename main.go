@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	err := puzzles.Onea()
+	err := puzzles.Twoa()
 
 	if err != nil {
 		log.Fatalf("we got a probbem %v", err)
